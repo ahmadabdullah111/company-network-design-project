@@ -17,7 +17,7 @@ The network is designed to simulate a company-wide system that includes:
 - VLAN, DHCP, and Access Control configurations
 
 ## 📁 Files
-- `Company Business System Network Design (Project #6).pkt`: The main project file.
+- `Company Business System Network Design.pkt`: The main project file.
 
 ## 📌 How to Use
 1. Open the `.pkt` file using Cisco Packet Tracer (v8.x or higher recommended).
